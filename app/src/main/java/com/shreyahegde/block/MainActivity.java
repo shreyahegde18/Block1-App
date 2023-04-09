@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
             v.setVisibility(v.INVISIBLE);
         if (v.equals(maroon))
             //pop up
-            Toast.makeText(getApplicationContext(),"I Love Doge",Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(),"I Love Doge",Toast.LENGTH_LONG).show();
 
 
     }
